@@ -1,0 +1,64 @@
+/* Start about us  */
+body{
+	overflow: auto;
+}
+.breadcrumb-holder{
+	background: #f8f8f8;
+}
+
+.breadcrumb{
+	padding: 10px 0;
+	margin: 0;
+}
+
+.breadcrumb hr{
+	width: 70%;
+}
+
+.about-us{
+	padding: 70px 0;
+}
+/* end   about us  */
+
+
+/* Start Features */
+.feature{
+	padding: 70px 0;
+}
+
+.feature p{
+	margin-bottom: 20xp;
+}
+
+.about-ceo img {
+	width: 100%;
+}
+.about-ceo p{
+	line-height: 1.8;
+}
+
+.about-ceo .About-smmury{
+	margin-top: 100px;
+}
+
+.about-ceo .btn-primary{
+	background: #333;
+	border-color: #333;
+	margin-bottom: 20px;
+}
+/* End   Features */
+
+
+/*Start FAQ Page*/
+.faq-ques .panel-title a:after{
+	font-family: 'Glyphicons Halflings';
+	content:"\e014" ;
+	float: right;
+}
+
+.faq-ques .panel-title a.collapsed:after{
+		font-family: 'Glyphicons Halflings';
+	content:"\e114" ;
+	float: right;
+}
+/*End FAQ Pages*/
